@@ -1,0 +1,32 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+.search-bar {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 300px;
+}
+
+.candidates-table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.candidates-table th, .candidates-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.candidates-table th {
+  background-color: #f4f4f4;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 10px;
+}
